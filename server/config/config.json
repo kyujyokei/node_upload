@@ -1,0 +1,12 @@
+{
+    "test": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/ResuMakerTest",
+        "JWT_SECRET": "qwertyuihjkljklopIdonthavetorememberthis"
+    },
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/ResuMaker",
+        "JWT_SECRET": "qwertyuiop123456thisisrandom"
+    }
+}
